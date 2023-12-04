@@ -1,0 +1,24 @@
++OK 723
+Content-Type: multipart/mixed; boundary="------------vk37g0uh43GpqC516KpD6lik"
+Message-ID: <9f49b214-c427-4d25-a040-30d1c6fa1a5b@gmail.com>
+Date: Tue, 21 Nov 2023 09:01:31 +0700
+To: duyphuc2425@gmail.com
+From: Hong Phuc <test@gmail.com>
+Subject: thu nghiem 1
+
+This is a multi-part message in MIME format.
+------------vk37g0uh43GpqC516KpD6lik
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+chua biet
+
+------------vk37g0uh43GpqC516KpD6lik
+Content-Type: text/plain; charset=UTF-8; name="text.txt"
+Content-Disposition: attachment; filename="text.txt"
+Content-Transfer-Encoding: base64
+
+UGh1YyB4aW4gY2hhbyBtb2kgbmd1b2kgbmhh
+ 
+------------vk37g0uh43GpqC516KpD6lik--
+.

@@ -1,0 +1,27 @@
++OK 874
+Content-Type: multipart/mixed; boundary="------------N2M1ZjA1NWItYjUyNS00YTI1LWEzMTUtZWNhMmY5MGNlYmQz"
+Message-ID: <dc8847a1-9a74-4ce7-b0a0-5532657261c6@gmail.com>
+Date: Mon, 20 Nov 2023 09:09:05 +0700
+MiME-Version: 1.0
+User-Agent: YourUserAgent/1.0
+Content-Language: en-US
+To: duyphuc2425@gmail.com
+From: test@gmail.com
+Subject: hello
+
+This is a multi-part message in MIME format.
+------------N2M1ZjA1NWItYjUyNS00YTI1LWEzMTUtZWNhMmY5MGNlYmQz
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+xin chao
+
+------------N2M1ZjA1NWItYjUyNS00YTI1LWEzMTUtZWNhMmY5MGNlYmQz
+Content-Type: text/plain; charset=UTF-8; name ="text.txt"
+Content-Disposition:attachment; filename="text.txt"
+Content-Transfer-Encoding: base64
+
+UGh1YyB4aW4gY2hhbyBtb2kgbmd1b2kgbmhh
+ 
+------------N2M1ZjA1NWItYjUyNS00YTI1LWEzMTUtZWNhMmY5MGNlYmQz--
+.

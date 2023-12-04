@@ -1,0 +1,26 @@
++OK 812
+Content-Type: multipart/mixed; boundary="------------Swg7Tf73KSq0toJ0V0JM89Lz"
+Message-ID: <d7ad38a6-c5e3-4e5e-a349-21dfd4cbbc71@gmail.com>
+Date: Mon, 20 Nov 2023 08:50:28 +0700
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: vi-x-KieuCu.[Chuan]
+To: duyphuc2425@gmail.com
+From: Bui Hong Phuc <duyphuc2425@gmail.com>
+Subject: hello
+
+This is a multi-part message in MIME format.
+--------------Swg7Tf73KSq0toJ0V0JM89Lz
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+--------------Swg7Tf73KSq0toJ0V0JM89Lz
+Content-Type: text/plain; charset=UTF-8; name="text.txt"
+Content-Disposition: attachment; filename="text.txt"
+Content-Transfer-Encoding: base64
+
+UGh1YyB4aW4gY2hhbyBtb2kgbmd1b2kgbmhh
+
+--------------Swg7Tf73KSq0toJ0V0JM89Lz--
+.
